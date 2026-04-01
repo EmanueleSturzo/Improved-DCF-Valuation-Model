@@ -150,12 +150,12 @@ python dcf\_model.py --ticker AAPL --comps MSFT GOOGL AMZN META
 
 Free Cash Flow represents the cash available to all capital providers after operating expenses and reinvestment:
 
-$$\\text{FCF} = \\text{EBIT} \\times (1 - \\text{Tax Rate}) + \\text{D\&A} - \\text{CapEx} - \\Delta\\text{NWC}$$
+$$\\text{FCF} = \\text{EBIT} \\times (1 - \\text{Tax Rate}) + \\text{D and A} - \\text{CapEx} - \\Delta\\text{NWC}$$
 
 Where:
 
 * **EBIT** = Earnings Before Interest and Taxes
-* **D and A** = Depreciation and Amortization (non-cash add-back)
+* **D \& A** = Depreciation \& Amortization (non-cash add-back)
 * **CapEx** = Capital Expenditures (reinvestment in fixed assets)
 * **ΔNWC** = Change in Net Working Capital
 
