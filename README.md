@@ -155,7 +155,7 @@ $$\\text{FCF} = \\text{EBIT} \\times (1 - \\text{Tax Rate}) + \\text{D\&A} - \\t
 Where:
 
 * **EBIT** = Earnings Before Interest and Taxes
-* **D\&A** = Depreciation \& Amortization (non-cash add-back)
+* **D\&A** = Depreciation and Amortization (non-cash add-back)
 * **CapEx** = Capital Expenditures (reinvestment in fixed assets)
 * **ΔNWC** = Change in Net Working Capital
 
