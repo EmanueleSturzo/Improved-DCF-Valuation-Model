@@ -29,7 +29,7 @@ for Mac:
 cd ~/Downloads/DCF-Valuation-Model-main
 
 for windows:
-cd C:\Users\YourName\Downloads\DCF-Valuation-Model-main
+cd C:\Users\UserName\Downloads\DCF-Valuation-Model-main
 
 # Install dependencies
 pip install -r requirements.txt
